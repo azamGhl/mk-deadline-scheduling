@@ -16,3 +16,18 @@ Enter the WCET of task C1: 8
 Enter the absolute deadline of task d1: 15
 Enter mi for task 1: 1
 Enter ki for task 1: 2
+
+# Sample Run
+
+## Fixed Priority Schedule (Gantt Chart)
+
+![FP Schedule](../images/fix_prority.png)
+
+## Selective Approach – Primary Processor
+
+![Primary Processor](../images/primary_processor.png)
+
+## Selective Approach – Spare Processor
+
+![Spare Processor](../images/spare_processor.png)
+
