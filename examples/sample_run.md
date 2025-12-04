@@ -21,7 +21,7 @@ Enter ki for task 1: 2
 
 ## Fixed Priority Schedule (Gantt Chart)
 
-![FP Schedule](../images/fix_prority.png)
+![FP Schedule](../images/fix_priority.png)
 
 ## Selective Approach – Primary Processor
 
