@@ -29,5 +29,5 @@ Enter ki for task 1: 2
 
 ## Selective Approach – Spare Processor
 
-![Spare Processor](../images/spare_processor.png)
+![Spare Processor](../images/spare processor.png)
 
